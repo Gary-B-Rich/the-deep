@@ -12,3 +12,11 @@
 .navbar {
     border: 1px solid blue;
 }
+
+.main-body {
+    border: 1px solid salmon;
+}
+
+.footer {
+    border: 1px solid orange;
+}
