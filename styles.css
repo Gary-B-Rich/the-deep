@@ -1,5 +1,10 @@
 /*  styles.css for the-deep directory  */
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .main-container {
     border: 3px dotted palegreen;
 }
