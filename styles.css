@@ -1,5 +1,14 @@
 /*  styles.css for the-deep directory  */
 
-* {
-    border: 2px solid red;
+.main-container {
+    border: 3px dotted palegreen;
+}
+
+.logo {
+    border: 2px solid brown;
+    height: 200px;
+}
+
+.navbar {
+    border: 1px solid blue;
 }
