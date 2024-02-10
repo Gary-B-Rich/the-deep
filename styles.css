@@ -13,12 +13,14 @@
     border: 2px solid brown;
     height: 200px;
     background-image: url(purpleChurch.jpg);
+    background-position: center;
 }
 
 .main-body {
     border: 1px solid salmon;
     background-image: url(interior.jpg);
     height: 300px;
+    background-position: center;
     
 }
 
@@ -31,12 +33,12 @@
 #button1, #button2, #button3 {
     width: 250px;
     height: 100px;
-    background-image: url(churchArt.jpg);
-    color: white;
+
 }
 
 .footer {
     border: 1px solid orange;
     background-image: url(churchArt.jpg);
-    height: 150px;
+    background-position: center;
+    height: 200px;
 }
