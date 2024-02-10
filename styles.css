@@ -28,12 +28,31 @@
     border: 1px solid yellow;
     display: flex;
     justify-content: space-evenly;
-    background-color: darkorchid;
+    background-color: black;
 }
 #button1, #button2, #button3, #button4 {
     width: 150px;
     height: 100px;
 
+}
+
+#button1 {
+    background-image: url(glowCross.jpg);
+    background-position: center;
+    
+}
+#button2 {
+    background-image: url(purpleBrickCross.jpg);
+    background-position: center;
+}
+#button3 {
+    background-image: url(iceCross.jpg);
+    background-position: center;
+
+}
+#button4 {
+    background-image: url(purpleFireCross.jpg);
+    background-position: center;
 }
 
 .footer {
