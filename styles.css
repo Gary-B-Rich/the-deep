@@ -15,10 +15,6 @@
     background-image: url(purpleChurch.jpg);
 }
 
-.navbar {
-    border: 1px solid blue;
-}
-
 .main-body {
     border: 1px solid salmon;
     background-image: url(interior.jpg);
