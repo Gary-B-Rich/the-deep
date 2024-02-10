@@ -19,6 +19,20 @@
     border: 1px solid salmon;
     background-image: url(interior.jpg);
     height: 300px;
+    
+}
+
+.button_container {
+    border: 1px solid yellow;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkorchid;
+}
+#button1, #button2, #button3 {
+    width: 250px;
+    height: 100px;
+    background-image: url(churchArt.jpg);
+    color: white;
 }
 
 .footer {
