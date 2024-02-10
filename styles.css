@@ -30,8 +30,8 @@
     justify-content: space-evenly;
     background-color: darkorchid;
 }
-#button1, #button2, #button3 {
-    width: 250px;
+#button1, #button2, #button3, #button4 {
+    width: 150px;
     height: 100px;
 
 }
