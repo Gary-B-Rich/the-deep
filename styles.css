@@ -6,7 +6,7 @@
 }
 
 body {
-    height: 500vh;
+    height: 190vh;
 }
 
 .main-container {
@@ -28,9 +28,9 @@ body {
     background-size: scale-down;
 }
 
-.main-body, .post-body {
-    color: black;
-    font-size: large;
+.footer, .logo {
+    color: whitesmoke;
+    font-size: xx-large;
 }
 
 .button_container {
