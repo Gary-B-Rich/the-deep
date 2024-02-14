@@ -25,3 +25,4 @@ logo.innerText="Welcome to the Purple Church";
 
 const footer = document.querySelector('.footer');
 footer.innerText="This is the footer";
+
