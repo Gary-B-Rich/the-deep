@@ -64,4 +64,5 @@ body {
     background-image: url(churchArt.jpg);
     background-position: center;
     height: 100vh;
+    padding-top: 20px;
 } 
