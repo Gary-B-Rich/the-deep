@@ -21,7 +21,7 @@ button4.addEventListener("click", function() {
 });
 
 const logo = document.querySelector('.logo');
-logo.innerText="Welcome to the Purple Church";
+logo.innerText="Welcome to THE DEEP";
 
 const footer = document.querySelector('.footer');
 footer.innerText="This is the footer";
