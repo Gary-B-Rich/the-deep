@@ -1,2 +1,2 @@
 # the-deep
-Church landing page
+Repo for practicing code by building a pseudo church website
